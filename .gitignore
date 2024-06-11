@@ -1,0 +1,5 @@
+**/*.json
+**/*.log
+**/config.yaml
+dist/*
+local/*
